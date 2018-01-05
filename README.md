@@ -35,9 +35,5 @@ about cat's life - 고양이가 하는 일
 18. 파리잡기
 19. 러그 위에서 안일어나기
 20. 집사 코 핥아주기
-<<<<<<< HEAD
-
-/Users/ojiyeon/Documents/GitHub/cat-s-life/cat-153337_1280.png
-=======
 21. 고양이는 애교가 없어 애교는 생명인데 흥!
 >>>>>>> f1922add2762e9d70f5460105b81f32f13a88700
