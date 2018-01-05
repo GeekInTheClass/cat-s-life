@@ -29,3 +29,5 @@ about cat's life - 고양이가 하는 일
 18. 파리잡기
 19. 러그 위에서 안일어나기
 20. 집사 코 핥아주기
+
+/Users/ojiyeon/Documents/GitHub/cat-s-life/cat-153337_1280.png
